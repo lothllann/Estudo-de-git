@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>lalalal Cursos da Aluraaaaa</title>
+    <title>curso de doc</title>
 </head>
 <body>
     <ul>
